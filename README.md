@@ -1,8 +1,8 @@
 <h1>
-<a href="https://www.dtapp.net/">Golang amap</a>
+<a href="https://www.dtapp.net/">Golang</a>
 </h1>
 
-📦 Golang amap
+📦 Golang 高德地图
 
 [comment]: <> (go)
 [![godoc](https://pkg.go.dev/badge/go.dtapp.net/amap?status.svg)](https://pkg.go.dev/go.dtapp.net/amap)
@@ -13,5 +13,5 @@
 #### 安装
 
 ```shell
-go get -v -u go.dtapp.net/amap@v1.0.0
+go get -v -u go.dtapp.net/amap@v1.0.1
 ```
